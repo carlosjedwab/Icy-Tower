@@ -1,10 +1,9 @@
 # Icy-Tower
 A game made inspired by the classic arcade game: Icy-Tower
 
-
-THIS IS NOT THE FINAL VERSION!
-
 Built with the SFML C++ library, which is necessary for running the game.
+
+THIS IS NOT THE FINAL VERSION! PLUS THE MUSIC WAS TO BIG OF A FILE TO UPLOAD, SO FOR NOW THERE ISN'T A MUSIC!
 
 # Running on Linux
 With SFML installed, run the run.py script to open the game.
